@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43c5aed1-336a-4832-8430-fe26d37f49f3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/regression/logistic_regression.ipynb" afterPath="$PROJECT_DIR$/regression/logistic_regression.ipynb" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/regression/simple_linear_regression.ipynb" afterPath="$PROJECT_DIR$/regression/simple_linear_regression.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
