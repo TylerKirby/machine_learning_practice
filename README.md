@@ -1,2 +1,2 @@
-# machine_learning_practice
-Various Jupyter notebooks for practicing various machine learning techniques.
+# Machine Learning Practice
+A common repository for miscellaneous machine learning projects
